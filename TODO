@@ -1,0 +1,15 @@
+Datapoint Functions
+  Numeric
+    handle changes to points
+    handle changes to values
+  Enumerations
+    handle changes to points
+    handle changes to values
+
+Model Testing
+  table sorting
+  table filtering
+
+What about?
+  relative strategy
+  partition strategy
